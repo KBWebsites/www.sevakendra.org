@@ -2,19 +2,21 @@
 title: Foreign Funds
 layout: default
 ---
-<style>table{width:100%}h4{font-size:18px}td:nth-child(3){text-align: right}</style>
+<style>table{width:100%}h4{font-size:18px}</style>
 
 ### Financial Year 2014-15
 
 #### April to June
 
 | Date       | Name of the Donor                                     | Amount
+|------------|-------------------------------------------------------|-------------:|
 | 16/4/2015  | Missionssekretariat, Postfach 360, Gossau             | 6,59,890.00
 | 30/5/2015  | Caritas India, New Delhi                              | 5,74,854.00
 
 #### July to September
 
 | Date       | Name of the Donor                                     | Amount
+|------------|-------------------------------------------------------|-------------:|
 | 08/7/2015  | The Christopher Mission, San Francisco, CA            | 25,33,890.00
 | 28/7/2015  | Hilfe Z S, Don Bosco Mission                          | 12,76,490.00
 | 30/7/2015  | Survive-Miva, Liverpool.                              | 94,064.00
@@ -24,5 +26,6 @@ layout: default
 #### October to December
 
 | Date       | Name of the Donor                                     | Amount
+|------------|-------------------------------------------------------|-------------:|
 | 14/12/2015 | Katholischer Konfessionsteil, des Kantons, St. Gallen | 13,47,333.00
 | 17/12/2015 | Caritas India, New Delhi                              | 5,77,500.00
