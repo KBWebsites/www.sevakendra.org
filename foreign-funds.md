@@ -2,7 +2,7 @@
 title: Foreign Funds
 layout: default
 ---
-<style>table{width:100%}h4{font-size:18px}</style>
+<style>table{width:100%}h4{font-size:18px}th{text-transform:uppercase}</style>
 
 ### Financial Year 2015-16
 
