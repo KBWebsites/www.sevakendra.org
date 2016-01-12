@@ -1,0 +1,21 @@
+name: Seva Kendra Arunachal East
+url: http://www.sevakendra.org/
+domain: www.sevakendra.org
+
+permalink: pretty
+
+nav:
+- text: Home
+  url: /
+- text: About Us
+  url: /about-us/
+- text: Services
+  url: /services/
+- text: Gallery
+  url: /gallery/
+- text: Make a Donation
+  url: /make-a-donation/
+- text: Contact Us
+  url: /contact-us/
+- text: Foreign Funds
+  url: /foreign-funds/

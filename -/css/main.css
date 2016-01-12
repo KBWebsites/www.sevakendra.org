@@ -1,0 +1,65 @@
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700);
+
+@font-face{font-family:'BebasNeueRegular';src:url('../fonts/BebasNeue-webfont.eot');src:url('../fonts/BebasNeue-webfont.eot?#iefix') format('embedded-opentype'),url('../fonts/BebasNeue-webfont.woff') format('woff'),        url('../fonts/BebasNeue-webfont.ttf') format('truetype'),url('../fonts/BebasNeue-webfont.svg#BebasNeueRegular') format('svg');font-weight:normal;font-style:normal}
+
+*{margin:0; padding:0}
+
+body{background:url(../img/body.png) fixed; font:13px 'Source Sans Pro', sans-serif; color:#333; line-height:2em}
+a:link,a:visited{color:#008FA8; text-decoration:none}
+a:hover{color:#000; text-decoration:underline}
+img{border:none}
+td:nth-child(2){padding:0 10px}
+
+h1,h2,h3,h4,h5,h6{font-family:'BebasNeueRegular',sans-serif;font-weight:normal;margin:5px 0}
+h1{font-size:28px}
+h2{font-size:26px}
+h3{font-size:24px}
+
+.aligncenter{margin:0 auto}
+.alignright{float:right; margin:0 0 10px 10px}
+.alignleft{float:left; margin:10px 15px 10px 0}
+
+#wrapper{background:#fff; width:1000px; margin:auto; padding-bottom:30px}
+#header{width:100%; text-align:center;  padding:15px}
+#menu{width:940px; margin:0 auto; font-size:15px; text-align:center}
+#menu ul{width:100%; background:#5E2424; float:left; list-style:none; padding:0}
+#menu li{float:left; list-style:none; color:#999; text-shadow:1px 1px 0px #6d2929}
+#menu li a{color:#fff; display:block; padding:7px 33.5px; text-decoration:none; text-shadow:1px 1px 0px #000}
+#menu li a:hover, #menu li a:active, #menu li.current-menu-item a{color:#fff; background:#6d2929}
+#slider{width:642px; height:270px}
+#content{width:642px; float:left; color:#333; margin:30px 0 30px 30px}
+#content-text{padding:20px; background:#fafafa; border:1px solid #e8e8e8}
+#content h1{font-size:28px; font-weight:normal}
+#content p{margin:5px 0;padding:5px 0;text-align: justify;}
+#content ul, #content ol{padding-left:17px}
+#sidebar{width:270px; float:right; margin:30px 30px 30px 0}
+#sidebar h3{color:#fff; font-size:18px; margin-top:0; margin-bottom:10px; padding:7px 0; background:#222; text-align:center}
+#sidebar li{width:270px; list-style:none; color:#666; margin-bottom:20px}
+#footer{width:920px; padding:8px 10px; background:#5E2424; margin:auto; color:#fff; clear:both}
+#footer a:link, #footer a:visited{color:#fff;text-decoration:underline}
+#footer a:hover{color:#fff;text-decoration:none}
+#copyright{float:left}
+#credit{text-align:right}
+
+
+#footer-widgets{width:100%; background:#6d2929; float:left; padding-bottom:30px}
+#footer-widgets h3{padding:10px 0px; color:#fff}
+#footer-widgets li{float:left; width:200px; margin:20px 10px 0px 20px; color:#ddd; list-style:none}
+#footer-widgets ul li{clear:both; padding:5px 0; border-bottom:1px solid #893333; margin:0}
+
+
+/*SLIDER*/
+.nivoSlider{position:relative; background:#fff url(../img/loading.gif) no-repeat 50% 50%; margin-bottom:30px; box-shadow:0px 1px 5px 0px #4a4a4a}
+.nivoSlider img{position:absolute; top:0px; left:0px; display:none}
+.nivoSlider a{border:0; display:block}
+.nivoSlider a.nivo-imageLink{position:absolute; top:0px; left:0px; width:100%; height:100%; border:0; padding:0; margin:0; z-index:6; display:none}
+.nivo-main-image{display:block !important; position:relative !important}
+.nivo-slice{display:block; position:absolute; z-index:5; height:100%; top:0}
+.nivo-box{display:block; position:absolute; z-index:5; overflow:hidden}
+.nivo-box img{display:block}
+.nivo-directionNav a{position:absolute; top:45%; z-index:9; cursor:pointer}
+.nivo-prevNav{left:0px}
+.nivo-nextNav{right:0px}
+.nivo-directionNav a{display:block; width:30px; height:30px; background:url(../img/arrows.png) no-repeat; text-indent:-9999px; border:0}
+a.nivo-nextNav{background-position:-30px 0; right:15px}
+a.nivo-prevNav{left:15px}
