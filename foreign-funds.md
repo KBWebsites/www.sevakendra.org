@@ -4,7 +4,7 @@ layout: default
 ---
 <style>table{width:100%}h4{font-size:18px}</style>
 
-### Foreign Funds for the Financial Year 2014-15
+### Financial Year 2014-15
 
 #### April to June 2015
 
