@@ -29,3 +29,12 @@ layout: default
 |:----------:|-------------------------------------------------------|-------------:|
 | 14/12/2015 | Katholischer Konfessionsteil, des Kantons, St. Gallen | 13,47,333.00
 | 17/12/2015 | Caritas India, New Delhi                              | 5,77,500.00
+
+#### January to March
+
+| Date       | Name of the Donor                                     | Amount
+|:----------:|-------------------------------------------------------|-------------:|
+| 16/01/2016 |                                                       |  7,28,885.00
+| 02/03/2016 |                                                       | 14,23,000.00
+| 05/03/2016 |                                                       |  6,47,435.00
+| 22/03/2016 | North East Diocesan Social Service Society            |    54,000.00
